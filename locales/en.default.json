@@ -425,6 +425,10 @@
       "website": "Business Website",
       "business_name": "Company",
       "business_type": "Type of Business"
+    },
+    "faq": {
+      "question": "Business Website",
+      "answer": "Company"
     }
   }
 }
